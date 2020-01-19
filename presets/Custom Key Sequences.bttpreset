@@ -1,0 +1,3241 @@
+{
+  "BTTPresetName" : "Custom Key Sequences",
+  "BTTPresetColor" : "74.648700, 164.166450, 182.070000, 255.000000",
+  "BTTPresetUUID" : "905FEC77-4D26-4989-BB06-898EF3E3EEB8",
+  "BTTPresetContent" : [
+    {
+      "BTTAppBundleIdentifier" : "com.apple.finder",
+      "BTTAppName" : "Finder",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTTriggers" : [
+
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "BT.G",
+      "BTTAppName" : "Global",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTTriggers" : [
+        {
+          "BTTGestureNotes" : "solidus",
+          "BTTTriggerType" : 624,
+          "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+          "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+          "BTTPredefinedActionType" : 193,
+          "BTTPredefinedActionName" : "Type Custom Text",
+          "BTTAdditionalActionData" : {
+            "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KBhIaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnByEBVsyOGNdBgAAABQAAAD__kgAZQBsAHYAZQB0AGkAYwBhAIQBZgyeAJ4BngCeAIaGhg=="
+          },
+          "BTTMoveCursorLeftBy" : "(null)",
+          "BTTEnabled2" : 1,
+          "BTTAlternateModifierKeys" : 0,
+          "BTTUUID" : "B4A10E8A-566F-4D29-B22A-CB182EC14497",
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTOrder" : 4,
+          "BTTDisplayOrder" : 0,
+          "BTTKeySequence" : {
+            "BTTPauseBetween" : 0.29999999999999999,
+            "BTTKeyCount" : 6,
+            "BTTKeySequenceDownKeys" : [
+              {
+                "BTTKEYCode" : 59,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601131776
+              },
+              {
+                "BTTKEYCode" : 56,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601131776
+              },
+              {
+                "BTTKEYCharacter" : " \/",
+                "BTTKEYCode" : 44,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601131776
+              }
+            ],
+            "BTTKeySequenceMixedKeys" : [
+              {
+                "BTTKEYCode" : 59,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601131776
+              },
+              {
+                "BTTKEYCode" : 56,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601131776
+              },
+              {
+                "BTTKEYCharacter" : " \/",
+                "BTTKEYCode" : 44,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601131776
+              },
+              {
+                "BTTKEYCharacter" : " \/",
+                "BTTKEYCode" : 44,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601131776
+              },
+              {
+                "BTTKEYCode" : 56,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601131776
+              },
+              {
+                "BTTKEYCode" : 59,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601131776
+              }
+            ],
+            "BTTKeySequenceUpKeys" : [
+              {
+                "BTTKEYCharacter" : " \/",
+                "BTTKEYCode" : 44,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601131776
+              },
+              {
+                "BTTKEYCode" : 56,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601131776
+              },
+              {
+                "BTTKEYCode" : 59,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601131776
+              }
+            ]
+          }
+        },
+        {
+          "BTTGestureNotes" : "heart icon",
+          "BTTTriggerType" : 624,
+          "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+          "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+          "BTTPredefinedActionType" : 193,
+          "BTTPredefinedActionName" : "Type Custom Text",
+          "BTTAdditionalActionData" : {
+            "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KZpYaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnCiEBVs0MGNdBgAAACAAAAD__kgAaQByAGEAZwBpAG4AbwBTAGEAbgBzAC0AVwAzAIQBZgyeAJ4BngCeAIaGhg=="
+          },
+          "BTTMoveCursorLeftBy" : "(null)",
+          "BTTEnabled2" : 1,
+          "BTTAlternateModifierKeys" : 0,
+          "BTTUUID" : "C1F5B614-DE3F-44F9-B35E-06ABDC7FD827",
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTOrder" : 5,
+          "BTTDisplayOrder" : 0,
+          "BTTKeySequence" : {
+            "BTTPauseBetween" : 0.29999999999999999,
+            "BTTKeyCount" : 6,
+            "BTTKeySequenceDownKeys" : [
+              {
+                "BTTKEYCode" : 59,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601132864
+              },
+              {
+                "BTTKEYCode" : 56,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601132864
+              },
+              {
+                "BTTKEYCharacter" : " H",
+                "BTTKEYCode" : 4,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601132864
+              }
+            ],
+            "BTTKeySequenceMixedKeys" : [
+              {
+                "BTTKEYCode" : 59,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601132864
+              },
+              {
+                "BTTKEYCode" : 56,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601132864
+              },
+              {
+                "BTTKEYCharacter" : " H",
+                "BTTKEYCode" : 4,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601132864
+              },
+              {
+                "BTTKEYCharacter" : " H",
+                "BTTKEYCode" : 4,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601132864
+              },
+              {
+                "BTTKEYCode" : 59,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601132864
+              },
+              {
+                "BTTKEYCode" : 56,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601132864
+              }
+            ],
+            "BTTKeySequenceUpKeys" : [
+              {
+                "BTTKEYCharacter" : " H",
+                "BTTKEYCode" : 4,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601132864
+              },
+              {
+                "BTTKEYCode" : 59,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601132864
+              },
+              {
+                "BTTKEYCode" : 56,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 601132864
+              }
+            ]
+          }
+        },
+        {
+          "BTTGestureNotes" : "prime",
+          "BTTTriggerType" : 624,
+          "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 193,
+          "BTTPredefinedActionName" : "Type Custom Text",
+          "BTTStringToType" : "′",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTEnabled2" : 1,
+          "BTTKeyboardShortcutKeyboardType" : 0,
+          "BTTUUID" : "76A3FFC4-E188-4B04-A6E8-416B9FB2FA68",
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTShortcutKeyCode" : -1,
+          "BTTShortcutModifierKeys" : -1,
+          "BTTOrder" : 2,
+          "BTTDisplayOrder" : 0,
+          "BTTAutoAdaptToKeyboardLayout" : 0,
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : "",
+          "BTTKeySequence" : {
+            "BTTPauseBetween" : 0.29999999999999999,
+            "BTTCharactersToDeleteAfterwards" : 1,
+            "BTTKeyCount" : 4,
+            "BTTKeySequenceDownKeys" : [
+              {
+                "BTTKEYCharacter" : "⌃",
+                "BTTKEYCode" : 59,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCharacter" : " '",
+                "BTTKEYCode" : 39,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
+              }
+            ],
+            "BTTKeySequenceMixedKeys" : [
+              {
+                "BTTKEYCharacter" : "⌃",
+                "BTTKEYCode" : 59,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCharacter" : " '",
+                "BTTKEYCode" : 39,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCharacter" : " '",
+                "BTTKEYCode" : 39,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCharacter" : "⌃",
+                "BTTKEYCode" : 59,
+                "BTTKEYRequired" : 1
+              }
+            ],
+            "BTTKeySequenceUpKeys" : [
+              {
+                "BTTKEYCharacter" : " '",
+                "BTTKEYCode" : 39,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCharacter" : "⌃",
+                "BTTKEYCode" : 59,
+                "BTTKEYRequired" : 1
+              }
+            ]
+          }
+        },
+        {
+          "BTTGestureNotes" : "double prime",
+          "BTTTriggerType" : 624,
+          "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 193,
+          "BTTPredefinedActionName" : "Type Custom Text",
+          "BTTStringToType" : "″",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTEnabled2" : 1,
+          "BTTKeyboardShortcutKeyboardType" : 0,
+          "BTTUUID" : "F2489E94-4334-4D3E-9237-F417196AC4A6",
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTShortcutKeyCode" : -1,
+          "BTTShortcutModifierKeys" : -1,
+          "BTTOrder" : 3,
+          "BTTDisplayOrder" : 0,
+          "BTTAutoAdaptToKeyboardLayout" : 0,
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : "",
+          "BTTKeySequence" : {
+            "BTTPauseBetween" : 0.29999999999999999,
+            "BTTCharactersToDeleteAfterwards" : 1,
+            "BTTKeyCount" : 6,
+            "BTTKeySequenceDownKeys" : [
+              {
+                "BTTKEYCharacter" : "⌃",
+                "BTTKEYCode" : 59,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCharacter" : "⇧",
+                "BTTKEYCode" : 56,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCharacter" : " '",
+                "BTTKEYCode" : 39,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
+              }
+            ],
+            "BTTKeySequenceMixedKeys" : [
+              {
+                "BTTKEYCharacter" : "⌃",
+                "BTTKEYCode" : 59,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCharacter" : "⇧",
+                "BTTKEYCode" : 56,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCharacter" : " '",
+                "BTTKEYCode" : 39,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCharacter" : " '",
+                "BTTKEYCode" : 39,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCharacter" : "⌃",
+                "BTTKEYCode" : 59,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCharacter" : "⇧",
+                "BTTKEYCode" : 56,
+                "BTTKEYRequired" : 1
+              }
+            ],
+            "BTTKeySequenceUpKeys" : [
+              {
+                "BTTKEYCharacter" : " '",
+                "BTTKEYCode" : 39,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCharacter" : "⌃",
+                "BTTKEYCode" : 59,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCharacter" : "⇧",
+                "BTTKEYCode" : 56,
+                "BTTKEYRequired" : 1
+              }
+            ]
+          }
+        },
+        {
+          "BTTTriggerType" : 630,
+          "BTTTriggerTypeDescription" : "Group",
+          "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+          "BTTPredefinedActionType" : -1,
+          "BTTPredefinedActionName" : "No Action",
+          "BTTEnabled2" : 1,
+          "BTTAlternateModifierKeys" : 0,
+          "BTTUUID" : "3F5C747E-CF89-483F-9862-D7FBD0D1781D",
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTGroupName" : "Keyboard Symbols",
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTOrder" : 1,
+          "BTTDisplayOrder" : 0,
+          "BTTAdditionalActions" : [
+            {
+              "BTTGestureNotes" : "command symbol",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTStringToType" : "⌘",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "39B0285B-DA88-443B-8BDF-604B9DA11227",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 0,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTIconData" : "",
+              "BTTAlternateIconData" : "",
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.30487820128051207,
+                "BTTKeyCount" : 4,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "⌘",
+                    "BTTKEYCode" : 55,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "⌘",
+                    "BTTKEYCode" : 55,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "⌘",
+                    "BTTKEYCode" : 55,
+                    "BTTKEYRequired" : 1
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "⌘",
+                    "BTTKEYCode" : 55,
+                    "BTTKEYRequired" : 1
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "shift symbol",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTStringToType" : "⇧",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "39CB4746-3A6F-4134-B33C-F899A2C5675B",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 1,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTIconData" : "",
+              "BTTAlternateIconData" : "",
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTKeyCount" : 4,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "⇧",
+                    "BTTKEYCode" : 56,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "⇧",
+                    "BTTKEYCode" : 56,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "⇧",
+                    "BTTKEYCode" : 56,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : "⇧",
+                    "BTTKEYCode" : 56,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "option symbol",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTStringToType" : "⌥",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "E9B6A3B9-8C9D-4616-9054-92C659708C4D",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 2,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTIconData" : "",
+              "BTTAlternateIconData" : "",
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTKeyCount" : 4,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "⌥",
+                    "BTTKEYCode" : 58,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "⌥",
+                    "BTTKEYCode" : 58,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "⌥",
+                    "BTTKEYCode" : 58,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : "⌥",
+                    "BTTKEYCode" : 58,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "control symbol",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTStringToType" : "⌃",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "DB02D887-AFB6-4199-8002-45605E2E4C3C",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 3,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTIconData" : "",
+              "BTTAlternateIconData" : "",
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTKeyCount" : 4,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "⌃",
+                    "BTTKEYCode" : 59,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "⌃",
+                    "BTTKEYCode" : 59,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "⌃",
+                    "BTTKEYCode" : 59,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : "⌃",
+                    "BTTKEYCode" : 59,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "capslock symbol",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTStringToType" : "⇪",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "56CC6393-3BFA-4748-A3AD-8C2B2CD5BEC6",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 4,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTAdditionalActions" : [
+                {
+                  "BTTTriggerType" : -1,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTPredefinedActionType" : 194,
+                  "BTTPredefinedActionName" : "Toggle Caps Lock On\/Off",
+                  "BTTEnabled2" : 1,
+                  "BTTKeyboardShortcutKeyboardType" : 0,
+                  "BTTUUID" : "86B5B2C5-82F3-4B5B-BB77-E5FA0F00F79C",
+                  "BTTNotesInsteadOfDescription" : 0,
+                  "BTTEnabled" : 1,
+                  "BTTModifierMode" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTShortcutModifierKeys" : -1,
+                  "BTTOrder" : 474,
+                  "BTTDisplayOrder" : 0,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTIconData" : "",
+              "BTTAlternateIconData" : "",
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTKeyCount" : 3,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130560
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130560
+                  },
+                  {
+                    "BTTKEYCode" : 57,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130560
+                  },
+                  {
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130560
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCode" : 57,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130560
+                  },
+                  {
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130560
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "function symbol",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTStringToType" : "fn",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "00DBFCBE-2AFF-45D8-B27A-C80ACBFC7F38",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 5,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTIconData" : "",
+              "BTTAlternateIconData" : "",
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 1,
+                "BTTKeyCount" : 4,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " F",
+                    "BTTKEYCode" : 3,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " F",
+                    "BTTKEYCode" : 3,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " F",
+                    "BTTKEYCode" : 3,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " F",
+                    "BTTKEYCode" : 3,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : "fn ",
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "tab symbol",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KHpYaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpB5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwGEBGZmZmaDxRHaPYP2RPY9g26BCj4BhpKEmZkNTlNTdHJva2VXaWR0aIaShISECE5TTnVtYmVyAISEB05TVmFsdWUAloQBKoSEAWSjAIaShJmZDU5TU3Ryb2tlQ29sb3KGkp2ShJmZEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBOU1BhcmFncmFwaFN0eWxlAJaEBENDQFMEAISEhAdOU0FycmF5AJacAIaBIAKEBFsyZl0SJIaShJmZEU5TQmFja2dyb3VuZENvbG9yhpKEnp4BnwGDUv5_P4Nu_38_AYaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnCiEBVs0MGNdBgAAACAAAAD__i4ATAB1AGMAaQBkAGEARwByAGEAbgBkAGUAVQBJAIQBZhCeAJ4BngCeAIaShJmZBk5TS2VyboaSoIaG"
+              },
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTEnabled2" : 1,
+              "BTTAlternateModifierKeys" : 0,
+              "BTTUUID" : "08073E5E-76BC-4A3A-A4E4-141E3BF7112E",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTOrder" : 6,
+              "BTTDisplayOrder" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 1,
+                "BTTKeyCount" : 4,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130240
+                  },
+                  {
+                    "BTTKEYCharacter" : " ⇥",
+                    "BTTKEYCode" : 48,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130240
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130240
+                  },
+                  {
+                    "BTTKEYCharacter" : " ⇥",
+                    "BTTKEYCode" : 48,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130240
+                  },
+                  {
+                    "BTTKEYCharacter" : " ⇥",
+                    "BTTKEYCode" : 48,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130240
+                  },
+                  {
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130240
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " ⇥",
+                    "BTTKEYCode" : 48,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130240
+                  },
+                  {
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130240
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "return symbol",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KGqYaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpB5KEmZkGTlNLZXJuhpKEhIQITlNOdW1iZXIAhIQHTlNWYWx1ZQCWhAEqhIQBZKAAhpKEmZkNTlNTdHJva2VXaWR0aIaSnZKEmZkNTlNTdHJva2VDb2xvcoaShISEB05TQ29sb3IAloQBYwGEBGZmZmaDxRHaPYP2RPY9g26BCj4BhpKEmZkHTlNDb2xvcoaSo5KEmZkRTlNCYWNrZ3JvdW5kQ29sb3KGkoSkogGjAYNS_n8_g27_fz8BhpKEmZkGTlNGb250hpKEhIQGTlNGb250HpacKIQFWzQwY10GAAAAIAAAAP_+LgBMAHUAYwBpAGQAYQBHAHIAYQBuAGQAZQBVAEkAhAFmEKIAogGiAKIAhpKEmZkQTlNQYXJhZ3JhcGhTdHlsZYaShISEF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlAISEEE5TUGFyYWdyYXBoU3R5bGUAloQEQ0NAUwQAhISEB05TQXJyYXkAlpwAhoEgAoQEWzJmXRIkhoaG"
+              },
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTEnabled2" : 1,
+              "BTTAlternateModifierKeys" : 0,
+              "BTTUUID" : "411C6BAD-E74A-4482-B86E-A4319EE7D92D",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTOrder" : 7,
+              "BTTDisplayOrder" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 1,
+                "BTTKeyCount" : 4,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130624
+                  },
+                  {
+                    "BTTKEYCharacter" : " ⌅",
+                    "BTTKEYCode" : 76,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130624
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCode" : 63,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130624
+                  },
+                  {
+                    "BTTKEYCharacter" : " ⌅",
+                    "BTTKEYCode" : 76,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130624
+                  },
+                  {
+                    "BTTKEYCharacter" : " ⌅",
+                    "BTTKEYCode" : 76,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130624
+                  },
+                  {
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130624
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " ⌅",
+                    "BTTKEYCode" : 76,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130624
+                  },
+                  {
+                    "BTTKEYCode" : 63,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601130624
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "BTTTriggerType" : 630,
+          "BTTTriggerTypeDescription" : "Group",
+          "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+          "BTTPredefinedActionType" : -1,
+          "BTTPredefinedActionName" : "No Action",
+          "BTTEnabled2" : 1,
+          "BTTAlternateModifierKeys" : 0,
+          "BTTUUID" : "5249B478-3AF3-4ADF-85DB-87278E3EE185",
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTGroupName" : "Fractions",
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTOrder" : 0,
+          "BTTDisplayOrder" : 0,
+          "BTTAdditionalActions" : [
+            {
+              "BTTGestureNotes" : "one half",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTStringToType" : "½",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTAdditionalConfiguration" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "E9900169-B9CC-4652-B0B5-2C9D3C65F2DA",
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 0,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " 2",
+                    "BTTKEYCode" : 19,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " 2",
+                    "BTTKEYCode" : 19,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " 2",
+                    "BTTKEYCode" : 19,
+                    "BTTKEYRequired" : 1
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " 2",
+                    "BTTKEYCode" : 19,
+                    "BTTKEYRequired" : 1
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "one third",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTStringToType" : "⅓",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTAdditionalConfiguration" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "E8FBBF15-06BA-49E8-939F-A098CC43FE58",
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 1,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 556064000
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 556064000
+                  },
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 556064000
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 556064000
+                  },
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 556064000
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 556064000
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 556064000
+                  },
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 556064000
+                  },
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 556064000
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 556064000
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 556064000
+                  },
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 556064000
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "one quarter",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErAsK8hoQCaUkBAZKEhIQMTlNEaWN0aW9uYXJ5AJaEAWkDkoSZmQdOU0NvbG9yhpKEhIQHTlNDb2xvcgCWhAFjA4QCZmYAAYaShJmZEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0eWxlAJaEBENDQFMEAIUAhpKEmZkGTlNGb250hpKEhIQGTlNGb250HpacHIQFWzI4Y10GAAAAFAAAAP_+SABlAGwAdgBlAHQAaQBjAGEAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTStringToType" : "½",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTAdditionalConfiguration" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "AFD92AA6-C8C0-47E7-AEDC-11067BF3502C",
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 2,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601131968
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601131968
+                  },
+                  {
+                    "BTTKEYCharacter" : " 4",
+                    "BTTKEYCode" : 21,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601131968
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601131968
+                  },
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601131968
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601131968
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601131968
+                  },
+                  {
+                    "BTTKEYCharacter" : " 4",
+                    "BTTKEYCode" : 21,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601131968
+                  },
+                  {
+                    "BTTKEYCharacter" : " 4",
+                    "BTTKEYCode" : 21,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601131968
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601131968
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601131968
+                  },
+                  {
+                    "BTTKEYCharacter" : " 4",
+                    "BTTKEYCode" : 21,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601131968
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "one fifth",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KFlYaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnCSEBVszNmNdBgAAABoAAAD__kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTStringToType" : "½",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTAdditionalConfiguration" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "8A2D52AF-CAC1-426A-93D5-4BBCBB867A00",
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 3,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132096
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132096
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132096
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132096
+                  },
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132096
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132096
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132096
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132096
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132096
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132096
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132096
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132096
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "one sixth",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KFmYaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnCSEBVszNmNdBgAAABoAAAD__kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTStringToType" : "½",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTAdditionalConfiguration" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "54012F44-CE9C-401D-8220-840B33B43077",
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 4,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " 6",
+                    "BTTKEYCode" : 22,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " 6",
+                    "BTTKEYCode" : 22,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " 6",
+                    "BTTKEYCode" : 22,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " 6",
+                    "BTTKEYCode" : 22,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "one seventh",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KFkIaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnDCEBVs0OGNdBgAAACYAAAD__lAAaQBuAGcARgBhAG4AZwBTAEMALQBSAGUAZwB1AGwAYQByAAAAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTStringToType" : "½",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTAdditionalConfiguration" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "78509585-7202-43A7-98C1-497C4D080800",
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 5,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " 7",
+                    "BTTKEYCode" : 26,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " 7",
+                    "BTTKEYCode" : 26,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " 7",
+                    "BTTKEYCode" : 26,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  },
+                  {
+                    "BTTKEYCharacter" : " 7",
+                    "BTTKEYCode" : 26,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132160
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "one eighth",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KFm4aEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnCSEBVszNmNdBgAAABoAAAD__kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTStringToType" : "½",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTAdditionalConfiguration" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "E44B081D-3324-44EC-B1C7-C3161EC73C24",
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 6,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "one ninth",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KFkYaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnDCEBVs0OGNdBgAAACYAAAD__lAAaQBuAGcARgBhAG4AZwBTAEMALQBSAGUAZwB1AGwAYQByAAAAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTStringToType" : "½",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTAdditionalConfiguration" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "0A7822AF-62A1-428C-ACF9-6333B6AA1ADD",
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 7,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 9",
+                    "BTTKEYCode" : 25,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 9",
+                    "BTTKEYCode" : 25,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 9",
+                    "BTTKEYCode" : 25,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 9",
+                    "BTTKEYCode" : 25,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "one tenth",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KFkoaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnDCEBVs0OGNdBgAAACYAAAD__lAAaQBuAGcARgBhAG4AZwBTAEMALQBSAGUAZwB1AGwAYQByAAAAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTStringToType" : "½",
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTAdditionalConfiguration" : "0",
+              "BTTEnabled2" : 1,
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTUUID" : "8697D0DC-F330-4449-9F07-247C2A191EF0",
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 8,
+              "BTTDisplayOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 4,
+                "BTTKeyCount" : 8,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 0",
+                    "BTTKEYCode" : 29,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 0",
+                    "BTTKEYCode" : 29,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 0",
+                    "BTTKEYCode" : 29,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 1",
+                    "BTTKEYCode" : 18,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 0",
+                    "BTTKEYCode" : 29,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "two third",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KFlIaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnCSEBVszNmNdBgAAABoAAAD__kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTMoveCursorLeftBy" : "(null)",
+              "BTTEnabled2" : 1,
+              "BTTAlternateModifierKeys" : 0,
+              "BTTUUID" : "B0F750E1-CB46-4104-8332-1E7F8E8DA5FF",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTOrder" : 9,
+              "BTTDisplayOrder" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 2",
+                    "BTTKEYCode" : 19,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 2",
+                    "BTTKEYCode" : 19,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 2",
+                    "BTTKEYCode" : 19,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 2",
+                    "BTTKEYCode" : 19,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  },
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132224
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "two fifth",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KFloaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnCSEBVszNmNdBgAAABoAAAD__kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTMoveCursorLeftBy" : "(null)",
+              "BTTEnabled2" : 1,
+              "BTTAlternateModifierKeys" : 0,
+              "BTTUUID" : "B423BEC9-88E8-496F-82FA-C5BE31B2E726",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTOrder" : 10,
+              "BTTDisplayOrder" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 2",
+                    "BTTKEYCode" : 19,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 2",
+                    "BTTKEYCode" : 19,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " 2",
+                    "BTTKEYCode" : 19,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 2",
+                    "BTTKEYCode" : 19,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "three quarter",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErAsK+hoQCaUkBAZKEhIQMTlNEaWN0aW9uYXJ5AJaEAWkDkoSZmQdOU0NvbG9yhpKEhIQHTlNDb2xvcgCWhAFjA4QCZmYAAYaShJmZEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0eWxlAJaEBENDQFMEAIUAhpKEmZkGTlNGb250hpKEhIQGTlNGb250HpacHIQFWzI4Y10GAAAAFAAAAP_+SABlAGwAdgBlAHQAaQBjAGEAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTMoveCursorLeftBy" : "(null)",
+              "BTTEnabled2" : 1,
+              "BTTAlternateModifierKeys" : 0,
+              "BTTUUID" : "C266C72E-E41F-4A0C-B669-6597782051D4",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTOrder" : 11,
+              "BTTDisplayOrder" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " 4",
+                    "BTTKEYCode" : 21,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " 4",
+                    "BTTKEYCode" : 21,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " 4",
+                    "BTTKEYCode" : 21,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  },
+                  {
+                    "BTTKEYCharacter" : " 4",
+                    "BTTKEYCode" : 21,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132416
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "three fifth",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KFl4aEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnCSEBVszNmNdBgAAABoAAAD__kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTMoveCursorLeftBy" : "(null)",
+              "BTTEnabled2" : 1,
+              "BTTAlternateModifierKeys" : 0,
+              "BTTUUID" : "C6E6B388-6658-4963-9DA9-F4D6D77721E8",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTOrder" : 12,
+              "BTTDisplayOrder" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYRequired" : 1
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYRequired" : 1
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "three eighth",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KFnIaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnCSEBVszNmNdBgAAABoAAAD__kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTMoveCursorLeftBy" : "(null)",
+              "BTTEnabled2" : 1,
+              "BTTAlternateModifierKeys" : 0,
+              "BTTUUID" : "27463E36-8F8A-41B5-A569-7AE0E4402927",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTOrder" : 13,
+              "BTTDisplayOrder" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132480
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132480
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132480
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132480
+                  },
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132480
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132480
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132480
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132480
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132480
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 3",
+                    "BTTKEYCode" : 20,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132480
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132480
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132480
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "four fifth",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KFmIaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnCSEBVszNmNdBgAAABoAAAD__kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTMoveCursorLeftBy" : "(null)",
+              "BTTEnabled2" : 1,
+              "BTTAlternateModifierKeys" : 0,
+              "BTTUUID" : "84935B6D-4AA7-4822-BE78-EDA7D04EE7FF",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTOrder" : 14,
+              "BTTDisplayOrder" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 4",
+                    "BTTKEYCode" : 21,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132544
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132544
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132544
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 4",
+                    "BTTKEYCode" : 21,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132544
+                  },
+                  {
+                    "BTTKEYCharacter" : " 4",
+                    "BTTKEYCode" : 21,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132544
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132544
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132544
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132544
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132544
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 4",
+                    "BTTKEYCode" : 21,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132544
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132544
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132544
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "five sixth",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KFmoaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnCSEBVszNmNdBgAAABoAAAD__kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTMoveCursorLeftBy" : "(null)",
+              "BTTEnabled2" : 1,
+              "BTTAlternateModifierKeys" : 0,
+              "BTTUUID" : "E5021ED0-5B07-420B-A0D1-E3A406DA3294",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTOrder" : 15,
+              "BTTDisplayOrder" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " 6",
+                    "BTTKEYCode" : 22,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " 6",
+                    "BTTKEYCode" : 22,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " 6",
+                    "BTTKEYCode" : 22,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " 6",
+                    "BTTKEYCode" : 22,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "five eighth",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KFnYaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnCSEBVszNmNdBgAAABoAAAD__kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTMoveCursorLeftBy" : "0",
+              "BTTEnabled2" : 1,
+              "BTTAlternateModifierKeys" : 0,
+              "BTTUUID" : "4BE8BF54-3EE5-43FC-AFB1-FB36183BA0D1",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTOrder" : 16,
+              "BTTDisplayOrder" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 5",
+                    "BTTKEYCode" : 23,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132608
+                  }
+                ]
+              }
+            },
+            {
+              "BTTGestureNotes" : "seven eighth",
+              "BTTTriggerType" : 624,
+              "BTTTriggerTypeDescription" : "Please Select a Trigger ",
+              "BTTTriggerClass" : "BTTTriggerTypeKeySequence",
+              "BTTPredefinedActionType" : 193,
+              "BTTPredefinedActionName" : "Type Custom Text",
+              "BTTAdditionalActionData" : {
+                "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KFnoaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnCSEBVszNmNdBgAAABoAAAD__kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFmDJ4AngGeAJ4AhoaG"
+              },
+              "BTTMoveCursorLeftBy" : "(null)",
+              "BTTEnabled2" : 1,
+              "BTTAlternateModifierKeys" : 0,
+              "BTTUUID" : "87226ACF-C023-41E2-AD30-E1A11DF5251C",
+              "BTTNotesInsteadOfDescription" : 0,
+              "BTTEnabled" : 1,
+              "BTTModifierMode" : 0,
+              "BTTOrder" : 17,
+              "BTTDisplayOrder" : 0,
+              "BTTKeySequence" : {
+                "BTTPauseBetween" : 0.29999999999999999,
+                "BTTCharactersToDeleteAfterwards" : 3,
+                "BTTKeyCount" : 6,
+                "BTTKeySequenceDownKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 7",
+                    "BTTKEYCode" : 26,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132672
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132672
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132672
+                  }
+                ],
+                "BTTKeySequenceMixedKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 7",
+                    "BTTKEYCode" : 26,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132672
+                  },
+                  {
+                    "BTTKEYCharacter" : " 7",
+                    "BTTKEYCode" : 26,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132672
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132672
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYDown" : 1,
+                    "BTTKEYOrderRelevant" : 1,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132672
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132672
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132672
+                  }
+                ],
+                "BTTKeySequenceUpKeys" : [
+                  {
+                    "BTTKEYCharacter" : " 7",
+                    "BTTKEYCode" : 26,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132672
+                  },
+                  {
+                    "BTTKEYCharacter" : " \\",
+                    "BTTKEYCode" : 42,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132672
+                  },
+                  {
+                    "BTTKEYCharacter" : " 8",
+                    "BTTKEYCode" : 28,
+                    "BTTKEYRequired" : 1,
+                    "BTTKEYTime" : 601132672
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "BTTPresetSnapAreas" : [
+
+  ]
+}
