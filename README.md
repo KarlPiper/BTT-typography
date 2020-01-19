@@ -1,4 +1,4 @@
-# BTT-typography
+# Typographic Key Commands
  BetterTouchTool actions for typing special characters.
 
 ### Punctuation
