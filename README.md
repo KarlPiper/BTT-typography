@@ -1,5 +1,22 @@
-# Custom BTT Actions
- __Keyboard Symbols__
+# Typography Shortcuts
+
+## To Do
+
+ - replace solidus with frac./divis. slashes
+ - alternate bullets
+ - double dagger
+ - arrows
+ - checkboxes
+ - numero
+ - degree+unit symbols
+ - super/sub script
+ - bitcoin
+ - won
+ - minus vs hyphen minus
+
+## Custom BTT Actions
+
+__Keyboard Symbols__
 
 Char.|Sequence|Name
 -----|--------|----
@@ -44,20 +61,20 @@ Char.|Sequence|Name
  
 ---
 
-# macOS Keyboard Shortcuts
-__Punctuation__
+## macOS Keyboard Shortcuts
+
+__Smart Quotes__
 
 Char.|Sequence|Name
 -----|--------|----
-–	|	⌥-	|	Endash
-—	|	⌥⇧-	|	Emdash
-•	|	⌥8	|	Bullet
-·	|	⌥⇧9	|	Interpunct
-…	|	⌥;	|	Ellipsis
 “	|	⌥\[	|	L Double Quote
 ”	|	⌥⇧\[	|	R Double Quote
 ‘	|	⌥]	|	L Single Quote
 ’	|	⌥⇧]	|	R Single Quote
+«	|	⌥\	|	L Double Angle Quote
+»	|	⌥⇧\	|	R Double Angle Quote
+‹	|	⌥⇧3	|	L Single Angle Quote
+›	|	⌥⇧4	|	R Single Angle Quote
 
 __Currencies__
 
@@ -92,3 +109,13 @@ Char.|Sequence|Name
 †	|	⌥t	|	Dagger
 ﬁ	|	⌥⇧5	|	F-I Ligature
 ﬂ	|	⌥⇧6	|	F-L Ligature
+
+__Punctuation__
+
+CHar.|Sequence|Name
+-----|--------|----
+–	|	⌥-	|	Endash
+—	|	⌥⇧-	|	Emdash
+•	|	⌥8	|	Bullet
+·	|	⌥⇧9	|	Interpunct
+…	|	⌥;	|	Ellipsis
