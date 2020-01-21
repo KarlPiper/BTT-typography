@@ -1,4 +1,4 @@
-# Typographic Key Commands
+# Typography Shortcuts
 BetterTouchTool actions for typing special characters, and reference for macOS keyboard shortcuts.
  
  ## Custom BTT Actions
