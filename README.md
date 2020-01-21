@@ -44,7 +44,7 @@ Char.|Sequence|Name
  
 ---
 
-# macOS
+# macOS Keyboard Shortcuts
 __Punctuation__
 
 Char.|Sequence|Name
