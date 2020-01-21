@@ -1,4 +1,4 @@
- ## Custom BTT Actions
+# Custom BTT Actions
  __Keyboard Symbols__
 
 Char.|Sequence|Name
@@ -42,7 +42,9 @@ Char.|Sequence|Name
 ″	|	⌃⇧’	|	Double Prime
 ⁄	|	⌥⇧/	|	Solidus
  
- ## macOS
+---
+
+# macOS
 __Punctuation__
 
 Char.|Sequence|Name
