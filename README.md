@@ -1,20 +1,23 @@
-# Typography Shortcuts
+# typography-shortcuts
 
-## To Do
+### About
+
+BTT ([BetterTouchTool](https://folivora.ai/)) _key sequences_ are used rather than _keyboard shortcuts_. This allows for automatic character deletion, and more flexible commands.
+
+All sequences have been set to _type_ characters, rather than _paste_ them. This allows for greater application compatibility, and doesn't clutter up clipboard managers.
+
+### To Do
 
  - replace solidus with frac./divis. slashes
- - alternate bullets
  - double dagger
  - arrows
  - checkboxes
  - numero
  - degree+unit symbols
- - super/sub script
- - bitcoin
- - won
+ - super/sub script?
  - minus vs hyphen minus
 
-## Custom BTT Actions
+## Custom BTT Sequences
 
 __Keyboard Symbols__
 
@@ -58,10 +61,16 @@ Char.|Sequence|Name
 ′	|	⌃’	|	Prime
 ″	|	⌃⇧’	|	Double Prime
 ⁄	|	⌥⇧/	|	Solidus
- 
----
+‣ | ⌥88 | Triangular Bullet
 
-## macOS Keyboard Shortcuts
+__Currencies__
+
+Char.|Sequence|Name
+-----|--------|----
+₿ | ⌥BC | Bitcoin
+₩ | ⌥KW | Won
+
+## macOS Shortcut Reference
 
 __Smart Quotes__
 
