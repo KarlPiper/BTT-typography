@@ -21,7 +21,7 @@ For character info paste it into [unicode-table's](https://unicode-table.com/en/
 
 ## Custom BTT Sequences
 
-__Keyboard Symbols__
+__Modifier Key Symbols__
 
 Char.|Sequence|Name
 -----|--------|----
@@ -30,6 +30,25 @@ Char.|Sequence|Name
 ⌥	|	fn⌥	|	Option
 ⌃	|	fn⌃	|	Control
 fn	|	fnF	|	Function
+
+__Typographic__
+
+Char.|Sequence|Name
+-----|--------|----
+♥	|	⌃⇧h	|	Heart Suit
+‣ | ⌥88 | Triangular Bullet
+☐ | ⌥BB | Ballot Box
+☒ | ⌥BX | Ballot Box With X
+☑︎ | ⌥BC | Ballot Box With Check
+
+__Punctuation__
+
+Char.|Sequence|Name
+-----|--------|----
+‽	|	⌘⇧1	|	Interrobang
+′	|	⌃’	|	Prime
+″	|	⌃⇧’	|	Double Prime
+⁄	|	⌥⇧/	|	Solidus
 
 __Fractions__
 
@@ -54,22 +73,11 @@ Char.|Sequence|Name
 ⅝	|	5\8	|	Five Eighth
 ⅞	|	7\8	|	Seven Eighth
 
-__Misc__
-
-Char.|Sequence|Name
------|--------|----
-‽	|	⌘⇧1	|	Interrobang
-♥	|	⌃⇧h	|	Heart Suit
-′	|	⌃’	|	Prime
-″	|	⌃⇧’	|	Double Prime
-⁄	|	⌥⇧/	|	Solidus
-‣ | ⌥88 | Triangular Bullet
-
 __Currencies__
 
 Char.|Sequence|Name
 -----|--------|----
-₿ | ⌥BC | Bitcoin
+₿ | ⌥BT | Bitcoin
 ₩ | ⌥KW | Won
 
 ## macOS Shortcut Reference
