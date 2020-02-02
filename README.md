@@ -6,6 +6,8 @@ BTT ([BetterTouchTool](https://folivora.ai/)) _key sequences_ are used rather th
 
 All sequences have been set to _type_ characters, rather than _paste_ them. This allows for greater application compatibility, and doesn't clutter up clipboard managers.
 
+For character info paste it into [unicode-table's](https://unicode-table.com/en/search/?q=) search box.
+
 ### To Do
 
  - replace solidus with frac./divis. slashes
