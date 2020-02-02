@@ -11,12 +11,8 @@ For character info paste it into [unicode-table's](https://unicode-table.com/en/
 ### To Do
 
  - replace solidus with frac./divis. slashes
- - double dagger
  - arrows
- - checkboxes
- - numero
- - degree+unit symbols
- - super/sub script?
+ - super/sub script numbers
  - minus vs hyphen minus
 
 ## Custom BTT Sequences
@@ -40,6 +36,10 @@ Char.|Sequence|Name
 ☐ | ⌥BB | Ballot Box
 ☒ | ⌥BX | Ballot Box With X
 ☑︎ | ⌥BC | Ballot Box With Check
+‡ | ⌃⇧T | Double Dagger
+№ | ⌃3  | Numero
+℉ | ⌃⇧F | Degrees Fahrenheit
+℃ | ⌃⇧C | Degreese Celsius
 
 __Punctuation__
 
