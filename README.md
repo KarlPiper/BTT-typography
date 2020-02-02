@@ -2,7 +2,7 @@
 
 ### About
 
-BTT ([BetterTouchTool](https://folivora.ai/)) _key sequences_ are used rather than _keyboard shortcuts_. This allows for automatic character deletion, and more flexible commands.
+BTT ([BetterTouchTool](https://folivora.ai/)) _key sequences_ are used rather than _keyboard shortcuts_. This allows for automatic character deletion, and more flexible commands (such as the fractions, which don't use modifier keys).
 
 All sequences have been set to _type_ characters, rather than _paste_ them. This allows for greater application compatibility, and doesn't clutter up clipboard managers.
 
